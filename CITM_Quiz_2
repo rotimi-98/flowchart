@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T11:33:12.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="1kCci9Nc7PFHBnsknN86" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T23:45:36.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="uttrT20H90mN1oqcfkjU" version="16.6.1" type="github">
   <diagram id="0LYalZN6mGp3djsKiSqF" name="Page-1">
     <mxGraphModel dx="946" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,13 +300,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-82" value="Inventory master file" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="780" width="100" height="30" as="geometry" />
+          <mxGeometry x="470" y="780" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-54" target="vqw5gk0z8wswiynUoTgA-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="870" as="sourcePoint" />
             <mxPoint x="450" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-84" value="Patient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-86" value="1.0&amp;nbsp;&lt;br&gt;Access and confirm booking" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-87" value="2.0&lt;br&gt;Administer vaccine dosage" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1630" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-88" value="3.0&lt;br&gt;Record vaccination &amp;amp; acknowledgment&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1630" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-89" value="Booking master record" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.99;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vqw5gk0z8wswiynUoTgA-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1500" as="sourcePoint" />
+            <mxPoint x="470" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vqw5gk0z8wswiynUoTgA-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1480" as="sourcePoint" />
+            <mxPoint x="220" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.78;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-86" target="vqw5gk0z8wswiynUoTgA-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1630" as="sourcePoint" />
+            <mxPoint x="490" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.009;entryY=0.445;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-87" target="vqw5gk0z8wswiynUoTgA-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1690" as="sourcePoint" />
+            <mxPoint x="460" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-97" value="Vaccine receipt&lt;br&gt;master file" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1770" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.009;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-88" target="vqw5gk0z8wswiynUoTgA-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1720" as="sourcePoint" />
+            <mxPoint x="150" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-100" value="Booking confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1480" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-101" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vqw5gk0z8wswiynUoTgA-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1640" as="sourcePoint" />
+            <mxPoint x="270" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-102" value="Proof of vaccination" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1570" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
