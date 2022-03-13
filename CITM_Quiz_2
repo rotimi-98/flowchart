@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T00:49:35.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="myqW51K0j-hxqOoXue2Q" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T05:02:21.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="7VdDgJS-dvvaPq0XeK_t" version="16.6.1" type="github">
   <diagram id="0LYalZN6mGp3djsKiSqF" name="Page-1">
     <mxGraphModel dx="946" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,16 +82,6 @@
             <mxPoint x="680" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-5" target="vqw5gk0z8wswiynUoTgA-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="560" as="sourcePoint" />
-            <mxPoint x="370" y="510" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-17" value="vaccine availability&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.344;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-3" target="vqw5gk0z8wswiynUoTgA-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="540" as="sourcePoint" />
@@ -111,15 +101,6 @@
             <mxPoint x="130" y="710" as="sourcePoint" />
             <mxPoint x="200" y="640" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.613;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-6" target="vqw5gk0z8wswiynUoTgA-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="570" as="sourcePoint" />
-            <mxPoint x="440" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-23" value="staff confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-70;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-25" value="Booking &lt;br&gt;master record" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="505" width="100" height="30" as="geometry" />
@@ -203,19 +184,6 @@
             <mxPoint x="530" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.025;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-33" target="vqw5gk0z8wswiynUoTgA-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="895" as="sourcePoint" />
-            <mxPoint x="610" y="845" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.738;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-42" target="vqw5gk0z8wswiynUoTgA-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1040" as="sourcePoint" />
-            <mxPoint x="490" y="990" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="1060" as="sourcePoint" />
@@ -233,12 +201,6 @@
         </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-64" value="staff confirmation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-80;" vertex="1" parent="1">
           <mxGeometry x="300" y="970" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-65" value="vaccine confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=35;" vertex="1" parent="1">
-          <mxGeometry x="410" y="960" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vqw5gk0z8wswiynUoTgA-66" value="OHIP confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="880" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vqw5gk0z8wswiynUoTgA-67" value="Booking &lt;br&gt;master record" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="990" width="100" height="30" as="geometry" />
