@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T17:16:24.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="4AIgmt3cgsatr8sb4xRb" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T20:11:49.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="E5pH6AiBhJsWtAIQ7M9n" version="16.6.1" type="github">
   <diagram id="0LYalZN6mGp3djsKiSqF" name="Page-1">
     <mxGraphModel dx="946" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -784,6 +784,134 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="4680" as="sourcePoint" />
             <mxPoint x="440" y="4630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-248" value="Context diagram for vaccine purchase process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="4660" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-250" value="Inventory management process" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="4690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-251" value="Clinics" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="4870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-252" value="Vendor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="485" y="4680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-253" value="General ledger process" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="645" y="4720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-254" value="Warehouse" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-255" value="Accounts payable process" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="4880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="71" y="4810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="333" y="4931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.963;exitY=0.8;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="4834" />
+              <mxPoint x="340" y="4830" />
+              <mxPoint x="460" y="4830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-256" value="Vaccine purchase process" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="265" y="4770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-257" value="Inventory&lt;br&gt;purchase&lt;br&gt;requisition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="4720" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-258" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vqw5gk0z8wswiynUoTgA-256">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="4720" as="sourcePoint" />
+            <mxPoint x="170" y="4670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-260" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-259" target="vqw5gk0z8wswiynUoTgA-256">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="4870" as="sourcePoint" />
+            <mxPoint x="120" y="4820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-259" value="Purchase requisition--&lt;br&gt;vaccine supplies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="4840" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-262" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vqw5gk0z8wswiynUoTgA-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="4870" as="sourcePoint" />
+            <mxPoint x="265" y="4826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-263" value="Purchase order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="4730" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-264" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.7;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="4770" as="sourcePoint" />
+            <mxPoint x="380" y="4720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-265" value="PO &lt;br&gt;inventory&lt;br&gt;notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="4780" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-267" value="PO&lt;br&gt;clinics&lt;br&gt;notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="4885" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-269" value="PO accounts&lt;br&gt;payable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="4830" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-270" value="Receiving&lt;br&gt;report" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="4905" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-274" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.975;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-252" target="vqw5gk0z8wswiynUoTgA-256">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="4880" as="sourcePoint" />
+            <mxPoint x="480" y="4830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-275" value="Vendor &lt;br&gt;packing slip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="385" y="4760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-254">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="4880" as="sourcePoint" />
+            <mxPoint x="480" y="4830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-278" value="Stock &lt;br&gt;notice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="4810" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-279" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-280" target="vqw5gk0z8wswiynUoTgA-253">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="4880" as="sourcePoint" />
+            <mxPoint x="480" y="4830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-280" value="GL inventory&lt;br&gt;receive update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="4770" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-281" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vqw5gk0z8wswiynUoTgA-256" target="vqw5gk0z8wswiynUoTgA-280">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="4810" as="sourcePoint" />
+            <mxPoint x="645" y="4760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
