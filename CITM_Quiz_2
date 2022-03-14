@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T23:10:26.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="vT3JenajRdKweH8U2Wsf" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T00:31:48.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="eHTh7SDDiMwhniZNmbmR" version="16.6.1" type="github">
   <diagram id="0LYalZN6mGp3djsKiSqF" name="Page-1">
     <mxGraphModel dx="946" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1477,6 +1477,24 @@
             <mxPoint x="320" y="3170" as="sourcePoint" />
             <mxPoint x="370" y="3120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-469" value="3 Performance Metrics for Covid Vaccine Cliics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="6620" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-470" value="Patients booking per week&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="6660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-471" value="Patients receipt per week" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="6680" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-472" value="Booking cancellation per week" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="6700" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-473" value="The three metrics are important to Toronto Pearson because they help to determine inventory levels.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="6740" width="550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqw5gk0z8wswiynUoTgA-474" value="It shows the demand for the vaccines which help to forecast vaccines procurement from vendors. Having more inventory than demand is tying up&amp;nbsp;&lt;br&gt;funds that could be used somewhere else. Vaccines have expiry date, and unused vaccines in the inventory is definitely a financial loss to the business." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="6760" width="820" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
