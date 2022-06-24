@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T12:16:15.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="d0cDMN0rLUJl9rkbbYRm" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T12:17:58.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="rjMfYZhmPYNNbqCh54T5" version="20.0.1" type="github">
   <diagram id="hD_1Vt5WbG4tLJ3FDPnJ" name="Page-1">
     <mxGraphModel dx="2372" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0x-USc0abDujwDioYatP-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-1140" width="660" height="740" as="geometry" />
+          <mxGeometry x="100" y="-1140" width="640" height="740" as="geometry" />
         </mxCell>
         <mxCell id="0x-USc0abDujwDioYatP-3" value="Book appointment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0x-USc0abDujwDioYatP-2">
           <mxGeometry x="20" y="60" width="120" height="80" as="geometry" />
@@ -141,10 +141,10 @@
           <mxGeometry x="130" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0x-USc0abDujwDioYatP-4" value="Patient&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-740" width="30" height="60" as="geometry" />
+          <mxGeometry x="10" y="-740" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0x-USc0abDujwDioYatP-7" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-740" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="-740" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0x-USc0abDujwDioYatP-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0x-USc0abDujwDioYatP-4" target="0x-USc0abDujwDioYatP-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -183,7 +183,7 @@
             <mxPoint x="670" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0x-USc0abDujwDioYatP-45" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0x-USc0abDujwDioYatP-17">
+        <mxCell id="0x-USc0abDujwDioYatP-45" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0x-USc0abDujwDioYatP-17" target="0x-USc0abDujwDioYatP-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="210" as="sourcePoint" />
             <mxPoint x="1110" y="-720" as="targetPoint" />
